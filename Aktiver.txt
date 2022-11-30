@@ -4,7 +4,7 @@
 
 3) slmgr.vbs /skms kms.lotro.cc
 
-40 slmgr.vbs /ato
+4) slmgr.vbs /ato
 
 
 ** Instagram : gcosx.js **
